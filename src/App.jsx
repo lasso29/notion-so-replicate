@@ -6,7 +6,7 @@ import Landingpage from './Landingpage'
 import Navbar from './Navbar'
 import Footer from './Footer'
 import Box from './Box'
-import Contain from './contain'
+import Contain from './Contain'
 import Carousel from './Carousel'
 
 
